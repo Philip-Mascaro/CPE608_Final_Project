@@ -56,5 +56,5 @@ zip files
 	due to Github file upload size restrictions, some of the pickle files needed to be zipped
 		if you want to use these, unzip them and move them to the folder containing the python files
 	
-	one pickle file was still too large to upload even after zipping. the zip of that pickle file is located at this Google Drive link:
+	one pickle file (y_train_3_provided) was still too large to upload even after zipping. the zip of that pickle file is located at this Google Drive link:
 		https://drive.google.com/file/d/1EzJjvNbnQlL0TQ6OcCGy1QzYbmHZ660V/view?usp=sharing
